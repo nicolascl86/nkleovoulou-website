@@ -50,6 +50,14 @@
                 "url": "/nico.lascleo",
                 "icon": "instagram",
                 "elementId": ""
+            },
+            {
+                "type": "Social",
+                "label": "Facebook",
+                "altText": "",
+                "url": "/nkleovoulou",
+                "icon": "linkedin",
+                "elementId": ""
             }
         ],
         "styles": {
