@@ -42,6 +42,14 @@
                 "label": "GitHub",
                 "url": "https://github.com/nicolascl86",
                 "icon": "github"
+            },
+            {
+                "type": "Social",
+                "label": "Facebook",
+                "altText": "",
+                "url": "/nico.lascleo",
+                "icon": "instagram",
+                "elementId": ""
             }
         ],
         "styles": {
