@@ -11,7 +11,8 @@
             {
                 "type": "Link",
                 "label": "About Me",
-                "url": "/aboutme"
+                "url": "/aboutme",
+                "showIcon": true
             },
             {
                 "type": "Link",
